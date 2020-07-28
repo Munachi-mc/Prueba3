@@ -3,4 +3,11 @@ color: burlywood;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
 border: cadetblue solid 2px;
+width: 500px;
+align-items: center;
+margin: auto;
+}
+
+.wrap{
+    justify-content: center;
 }
