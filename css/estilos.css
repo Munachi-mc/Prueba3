@@ -28,7 +28,7 @@ margin: auto;
     margin-top: 20px;
 }
 
-/* #cabecera{
+#cabecera{
     color: #8291E6;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -37,4 +37,5 @@ margin: auto;
     align-items: center;
     margin: auto;
     margin-top: 20px;  
-} */
+    background-image: url(../imagenes/hero.png);
+}
